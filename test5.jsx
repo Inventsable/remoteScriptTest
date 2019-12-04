@@ -1,3 +1,4 @@
 function showColorPicker() {
-  return $.colorPicker();
+  var color = $.colorPicker();
+  return color;
 }
