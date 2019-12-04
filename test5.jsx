@@ -1,3 +1,3 @@
-function showColorPicker() {
-  $.colorPicker();
+function showSomething() {
+  alert($.build);
 }
